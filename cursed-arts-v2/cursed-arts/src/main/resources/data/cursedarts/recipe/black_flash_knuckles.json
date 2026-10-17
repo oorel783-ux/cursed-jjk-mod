@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BNB",
+    "BTB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "T": {
+      "item": "cursedarts:cursed_talisman"
+    }
+  },
+  "result": {
+    "id": "cursedarts:black_flash_knuckles",
+    "count": 1
+  }
+}

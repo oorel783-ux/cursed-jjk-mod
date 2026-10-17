@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AGA",
+    " T "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "T": {
+      "item": "cursedarts:cursed_talisman"
+    }
+  },
+  "result": {
+    "id": "cursedarts:reverse_cursed_technique",
+    "count": 1
+  }
+}
