@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cursedarts",
+  "version": "${version}",
+  "name": "Cursed Arts",
+  "description": "A JJK-inspired cursed energy magic mod: Red, Blue, Hollow Purple, Dismantle, Reverse Cursed Technique, Black Flash and Domain Expansion.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.cursedarts.CursedArts"],
+    "client": ["dev.cursedarts.client.CursedArtsClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
